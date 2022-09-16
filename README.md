@@ -1,5 +1,5 @@
 # MATH5741M Statistical Theory and Methods (33874)
-## Lecture notes)
+## Lecture notes
 * [Booklet-of-formulae-and-tables.html](Booklet-of-formulae-and-tables.html)
 * [Common-questions.html](Common-questions.html)
 * [Chapter-1.html](Chapter-1.html)
@@ -12,7 +12,7 @@
 * [Lecture-examples.html](Lecture-examples.html)
 * [Exercises-with-solutions.html](Exercises-with-solutions.html)
 * [Exercises.html](Exercises-with-solutions.html)
-## Practical classes)
+## Practical classes
 * [Practical-1.html](Practical-1.html)
 * [Practical-2.html](Practical-2.html)
 * [Practical-3.html](Practical-3.html)
@@ -24,17 +24,17 @@
 * [Practical-9.html](Practical-9.html)
 * [Practical-10.html](Practical-10.html)
 * [Practical-11.html](Practical-11.html)
-## Data sets]()
+## Data sets
 * [galaxies.Rdata](galaxies.Rdata)
 * [killers.Rdata](killers.Rdata)
 * [galaxies.csv](galaxies.csv)
-## Slides)
+## Slides
 * [Lecture-1-slides.html](Lecture-1-slides.html)
 * [Practical-1-slides.html](Practical-1-slides.html)
 * [Lecture-4-slides.html](Lecture-4-slides.html)
 * [Lecture-8-slides.html](Lecture-8-slides.html)
 * [Lecture-10-slides.html](Lecture-10-slides.html)
-## Coursework]()
+## Coursework
 * [academic integrity statement (for signing).docx](academic integrity statement (for signing).docx)
 * [killersandmotives.Rdata](killersandmotives.Rdata)
 * [Coursework.html](Coursework.html)
