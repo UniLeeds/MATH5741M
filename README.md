@@ -35,6 +35,5 @@
 * [Lecture-8-slides.html](Lecture-8-slides.html)
 * [Lecture-10-slides.html](Lecture-10-slides.html)
 ## Coursework
-* [academic integrity statement (for signing).docx](academic integrity statement (for signing).docx)
 * [killersandmotives.Rdata](killersandmotives.Rdata)
 * [Coursework.html](Coursework.html)
